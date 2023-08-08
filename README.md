@@ -1,2 +1,2 @@
 # Virtual_Mouse
-This is a real time Python Project
+This is a real-time Python Project.
